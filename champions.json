@@ -77,7 +77,7 @@
     "is_top": false,
     "is_jg": false,
     "is_sup": false,
-    "is_ad": false
+    "is_ad": true
   },
   "alistar": {
     "id": "Alistar",
@@ -156,7 +156,7 @@
     "is_mid": true,
     "is_top": false,
     "is_jg": false,
-    "is_sup": true,
+    "is_sup": false,
     "is_ad": false
   },
   "annie": {
@@ -554,10 +554,10 @@
     "type": "マナ",
     "is_wr": true,
     "is_mid": false,
-    "is_top": true,
-    "is_jg": true,
+    "is_top": false,
+    "is_jg": false,
     "is_sup": false,
-    "is_ad": false
+    "is_ad": true
   },
   "drmundo": {
     "id": "DrMundo",
@@ -577,7 +577,7 @@
     "is_top": false,
     "is_jg": false,
     "is_sup": false,
-    "is_ad": true
+    "is_ad": false
   },
   "ekko": {
     "id": "Ekko",
@@ -834,7 +834,7 @@
     "type": "マナ",
     "is_wr": true,
     "is_mid": false,
-    "is_top": true,
+    "is_top": false,
     "is_jg": true,
     "is_sup": false,
     "is_ad": false
@@ -1055,7 +1055,7 @@
     "is_wr": true,
     "is_mid": true,
     "is_top": true,
-    "is_jg": true,
+    "is_jg": false,
     "is_sup": false,
     "is_ad": false
   },
@@ -1235,8 +1235,8 @@
     "is_wr": true,
     "is_mid": true,
     "is_top": false,
-    "is_jg": true,
-    "is_sup": true,
+    "is_jg": false,
+    "is_sup": false,
     "is_ad": false
   },
   "kayn": {
@@ -1353,7 +1353,7 @@
     "is_tank": false,
     "type": "マナ",
     "is_wr": false,
-    "is_mid": true,
+    "is_mid": false,
     "is_top": false,
     "is_jg": false,
     "is_sup": false,
@@ -1853,7 +1853,7 @@
     "is_tank": false,
     "type": "マナ",
     "is_wr": false,
-    "is_mid": false,
+    "is_mid": true,
     "is_top": false,
     "is_jg": true,
     "is_sup": false,
@@ -1897,7 +1897,7 @@
     "is_top": false,
     "is_jg": true,
     "is_sup": false,
-    "is_ad": true
+    "is_ad": false
   },
   "nunu": {
     "id": "Nunu",
@@ -2077,7 +2077,7 @@
     "is_top": true,
     "is_jg": false,
     "is_sup": false,
-    "is_ad": false
+    "is_ad": true
   },
   "rakan": {
     "id": "Rakan",
@@ -2155,7 +2155,7 @@
     "is_wr": false,
     "is_mid": false,
     "is_top": false,
-    "is_jg": true,
+    "is_jg": false,
     "is_sup": true,
     "is_ad": false
   },
@@ -2396,7 +2396,7 @@
     "is_mid": true,
     "is_top": true,
     "is_jg": true,
-    "is_sup": true,
+    "is_sup": false,
     "is_ad": false
   },
   "shen": {
@@ -2456,7 +2456,7 @@
     "is_mid": false,
     "is_top": true,
     "is_jg": false,
-    "is_sup": true,
+    "is_sup": false,
     "is_ad": false
   },
   "sion": {
@@ -2834,7 +2834,7 @@
     "type": "マナ",
     "is_wr": true,
     "is_mid": true,
-    "is_top": true,
+    "is_top": false,
     "is_jg": false,
     "is_sup": false,
     "is_ad": false
@@ -3253,11 +3253,11 @@
     "is_tank": false,
     "type": "マナ",
     "is_wr": true,
-    "is_mid": true,
-    "is_top": true,
-    "is_jg": true,
+    "is_mid": false,
+    "is_top": false,
+    "is_jg": false,
     "is_sup": true,
-    "is_ad": true
+    "is_ad": false
   },
   "zac": {
     "id": "Zac",
