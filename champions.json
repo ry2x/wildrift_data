@@ -2012,7 +2012,7 @@
     "is_support": false,
     "is_tank": true,
     "type": "マナ",
-    "is_wr": false,
+    "is_wr": true,
     "is_mid": false,
     "is_top": true,
     "is_jg": true,
